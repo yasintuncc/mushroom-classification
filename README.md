@@ -31,3 +31,8 @@ K-Nearest Neighbors (KNN)
 Logistic Regression
 
 Model performansı accuracy, confusion matrix ve classification report ile değerlendirildi.
+
+📈 Sonuçlar
+En iyi başarı oranı Random Forest algoritmasıyla elde edildi.
+
+Özellik önemi analiziyle hangi özelliklerin sınıflandırmada etkili olduğu belirlendi.
